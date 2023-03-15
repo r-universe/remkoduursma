@@ -1,0 +1,18 @@
+[
+  {
+    "package": "fitplc",
+    "oncran": true
+  },
+  {
+    "package": "lgrdata",
+    "oncran": true
+  },
+  {
+    "package": "Maeswrap",
+    "oncran": true
+  },
+  {
+    "package": "nlshelper",
+    "oncran": true
+  }
+]
