@@ -23,6 +23,11 @@
 	url = https://github.com/remkoduursma/nlshelper
 	shallow = true
 	registered = true
+[submodule "plantecophys"]
+	path = plantecophys
+	url = https://bitbucket.org/remkoduursma/plantecophys
+	shallow = true
+	registered = true
 [submodule "smatr"]
 	path = smatr
 	url = https://github.com/cran/smatr
