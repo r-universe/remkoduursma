@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Maeswrap"]
+	path = Maeswrap
+	url = https://github.com/remkoduursma/maeswrap
 [submodule "fitplc"]
 	path = fitplc
 	url = https://github.com/remkoduursma/fitplc
 [submodule "lgrdata"]
 	path = lgrdata
 	url = https://github.com/remkoduursma/lgrdata
-[submodule "Maeswrap"]
-	path = Maeswrap
-	url = https://github.com/remkoduursma/maeswrap
 [submodule "nlshelper"]
 	path = nlshelper
 	url = https://github.com/remkoduursma/nlshelper
