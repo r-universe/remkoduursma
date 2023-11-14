@@ -11,9 +11,6 @@
 [submodule "lgrdata"]
 	path = lgrdata
 	url = https://github.com/remkoduursma/lgrdata
-[submodule "nlshelper"]
-	path = nlshelper
-	url = https://github.com/remkoduursma/nlshelper
 [submodule "plantecophys"]
 	path = plantecophys
 	url = https://bitbucket.org/remkoduursma/plantecophys
