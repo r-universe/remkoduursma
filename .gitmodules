@@ -7,7 +7,7 @@
 	url = https://github.com/remkoduursma/maeswrap
 [submodule "fitplc"]
 	path = fitplc
-	url = https://github.com/remkoduursma/fitplc
+	url = https://bitbucket.org/remkoduursma/fitplc
 [submodule "lgrdata"]
 	path = lgrdata
 	url = https://github.com/remkoduursma/lgrdata
